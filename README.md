@@ -1,6 +1,7 @@
 <div>
 
 ## 🧑🏻‍💻 Welcome to KKR Github
+배우고 싶은 것, 하고 싶은 것이 넘쳐나는 컴퓨터공학과 학생입니다!
 <br/>
 
 ## 🧑🏻‍💻 Project
