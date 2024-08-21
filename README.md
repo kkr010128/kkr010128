@@ -7,6 +7,7 @@
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
 | <p align="center"> 2023.08.14 ~ 2023.12.18 </p> | <p align="center"> 동행 </p> | 동국대 재학생을 위한 택시 합승 서비스 | <p align="center"> 팀 리더<br/>프론트엔드<br/>사이드프로젝트  </p> | <p align="center"> 팀 프로젝트(코너스톤) </p> |
+| <p align="center"> 2024.04.11 ~ 2024.06.28 </p> | <p align="center"> POLY DASH </p> | 자체제작 DRM 시스템의 웹 대시보드 서비스 | <p align="center"> 프론트엔드<br/>백엔드 </p> | <p align="center"> 개인 프로젝트 </p> |
 <br/>
   
 ## 🖥️ Tech Stack
