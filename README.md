@@ -10,6 +10,7 @@
 | <p align="center"> 2024.07.07 ~ </p> | <p align="center"> 오모: 오늘 모해? </p> | 사용자 맞춤형 데이트코스 추천 서비스 | <p align="center"> 팀 리더<br/>프론트엔드 </p> | <p align="center"> 팀 프로젝트(마이그레이션 진행중) </p> |
 | <p align="center"> 2024.04.11 ~ 2024.06.28 </p> | <p align="center"> POLY DASH </p> | 자체제작 DRM 시스템의 웹 대시보드 서비스 | <p align="center"> 프론트엔드<br/>백엔드 </p> | <p align="center"> 개인 프로젝트 </p> |
 | <p align="center"> 2023.08.14 ~ 2023.12.18 </p> | <p align="center"> 동행 </p> | 동국대 재학생을 위한 택시 합승 서비스 | <p align="center"> 팀 리더<br/>프론트엔드<br/>사이드프로젝트  </p> | <p align="center"> 팀 프로젝트(코너스톤) </p> |
+| <p align="center"> 2020.04.14 ~ 2020.5.18 </p> | <p align="center"> Polygon</br>License Manager </p> | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | <p align="center"> 프론트엔드<br/>백엔드<br/>서비스 운영 </p> | <p align="center"> 개인 프로젝트(서비스 진행중) </p> |
 <br/>
   
 ## 🖥️ Tech Stack
