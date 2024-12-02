@@ -15,6 +15,13 @@
 | <p align="center"> 2023.08.14<br/>~ 2023.12.18 </p> | <p align="center"> 동행 </p> | 동국대 재학생을 위한 택시 합승 서비스 | <p align="center"> 팀 리더<br/>프론트엔드<br/>사이드프로젝트  </p> | <p align="center"> 팀 프로젝트(코너스톤) </p> |
 | <p align="center"> 2020.04.14<br/>~ 2020.5.18 </p> | <p align="center"> Polygon <br/> License System </p> | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | <p align="center"> 프론트엔드<br/>백엔드<br/>서비스 운영 </p> | <p align="center"> 개인 프로젝트<br/>(서비스 진행중) </p> |
 <br/>
+
+### Awards
+| 대회명 | 기관 | 작품 설명 | 수상 내용 | 수상일 |
+|----------|---------|-----|-----|-----|
+| <p align="center"> 2024 경주 지역문제 해결 해커톤 </p> | <p align="center"> 경주시 </p> | 경주시 정책 소통 플랫폼 | <p align="center"> 대상 | <p align="center"> 2024.12.01 </p> |
+| <p align="center"> 제 4회 링크 창업 아이템 경진대회</p> | <p align="center"> 동국대학교 </p> | 재학생을 위한 택시 합승 매칭 웹앱 | <p align="center"> 장려상 | <p align="center"> 2024.06.24</p> |
+<br/>
   
 ## 🖥️ Tech Stack
 ### Front-End
