@@ -16,7 +16,7 @@
 | <p align="center"> 2020.04.14<br/>~ 2020.5.18 </p> | <p align="center"> Polygon <br/> License System </p> | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | <p align="center"> 프론트엔드<br/>백엔드<br/>서비스 운영 </p> | <p align="center"> 개인 프로젝트<br/>(서비스 진행중) </p> |
 <br/>
 
-### Awards
+### 🏆 Awards
 | 대회명 | 기관 | 작품 설명 | 수상 내용 | 수상일 |
 |----------|---------|-----|-----|-----|
 | <p align="center"> 2024 경주 지역문제 해결 해커톤 </p> | <p align="center"> 경주시 </p> | 경주시 정책 소통 플랫폼 | <p align="center"> 대상 | <p align="center"> 2024.12.01 </p> |
