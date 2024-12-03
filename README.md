@@ -7,7 +7,7 @@
 ## 🧑🏻‍💻 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2024.11.30~2024.12.1 </p> | <p align="center"> 함께, 경주 </p> | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | <p align="center"> 프론트엔드<br/>프레젠테이션 | <p align="center"> 팀 프로젝트</p> |
+| <p align="center"> 2024.11.30~2024.12.1 </p> | <p align="center"> 함께, 경주 </p> | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | <p align="center"> 프론트엔드<br/>프레젠테이션 | <p align="center"> 팀 프로젝트<br/>(입상)</p> |
 | <p align="center"> 2024.08.29~ </p> | <p align="center"> 오늘의 알바 </p> | 점주와 아르바이트를 위한 공유 스케줄 및 급여 관리 앱 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.08.29~ </p> | <p align="center"> DG Table </p> | nDRIMS 데이터를 활용한 학교 시간표 제작 및 친구와의 비교 서비스 | <p align="center"> 팀 리더<br/>프론트엔드<br/>백엔드 | <p align="center">팀 프로젝트<br/></p> |
 | <p align="center"> 2024.07.07 ~ </p> | <p align="center"> 오모: 오늘 모해? </p> | 사용자 취향 맞춤형 데이트코스 추천 서비스 | <p align="center"> 팀 리더<br/>프론트엔드 </p> | <p align="center"> 팀 프로젝트<br/>(마이그레이션 진행중) </p> |
