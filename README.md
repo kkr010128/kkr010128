@@ -26,7 +26,7 @@
 
 ## 📰 Article
 https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
-<br/>
+<br/><br/>
 
   
 ## 🖥️ Tech Stack
