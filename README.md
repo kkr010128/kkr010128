@@ -24,7 +24,7 @@
 | <p align="center"> 제 4회 링크 창업 아이템 경진대회</p> | <p align="center"> 동국대학교 </p> | 재학생을 위한 택시 합승 매칭 웹앱 | <p align="center"> 장려상 | <p align="center"> 2024.06.24</p> |
 <br/>
 
-## 🏆 Article
+## 📰 Article
 https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 
 
