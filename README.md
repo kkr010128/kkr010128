@@ -67,10 +67,7 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <br/>
 
-<h2>🧑🏻‍💻 Activity</h2><div>
-  
-<div>
-</div>
+<h2>🧑🏻‍💻 Activity</h2>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 
