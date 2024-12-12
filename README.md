@@ -71,7 +71,7 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
   
 <div>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=algolia)
-| [![kkr010128's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) |
+| ![kkr010128's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 </div>
 <div>
