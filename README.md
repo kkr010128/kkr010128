@@ -71,8 +71,8 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
   
 <div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=algolia) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) | [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kk_0128_)](https://velog.io/@kk_0128_/drm)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=algolia) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) | [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kk_0128_)](https://velog.io/@kk_0128_/drm)|
 | ------------- | ------------- |
 </div>
 <div>
