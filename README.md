@@ -77,7 +77,7 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 <div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkr010128&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
