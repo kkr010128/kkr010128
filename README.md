@@ -70,8 +70,7 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 <h2>🧑🏻‍💻 Activity</h2><div>
   
 <div>
-</div>
-<div>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 
