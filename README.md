@@ -68,6 +68,8 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 <br/>
 
 <h2>🧑🏻‍💻 Activity</h2><div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 <div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=algolia) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128)](https://github.com/anuraghazra/github-readme-stats) |
