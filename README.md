@@ -1,7 +1,7 @@
 <div>
 
 ## 🧑🏻‍💻 Welcome to KKR Github
-부족함을 채워 나가기 위해 365일 열심히 달리고 있는 컴퓨터공학과 3학년 학생입니다!
+> 부족함을 채워 나가기 위해 365일 열심히 달리고 있는 컴퓨터공학과 4학년 학생입니다. 주로 Python, Flutter, NodeJS를 이용해 프로젝트를 진행했으며, 현재는 Spring 프레임워크를 공부하며 서비스 목적의 프로젝트를 준비하고 있습니다!
 <br/>
 
 ## 🧑🏻‍💻 Project
@@ -31,41 +31,43 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
   
 ## 🖥️ Tech Stack
 ### Front-End
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <br/>
 
 ### Back-End
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=black">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 <br/>
 
 
 ### Etc
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">  
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white">
 <br/>
 
 ### Tools
-<img src="https://img.shields.io/badge/3Ds Max-000000?style=for-the-badge&logo=autodesk&logoColor=white">
-<img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/3Ds Max-000000?style=flat-square&logo=autodesk&logoColor=white">
+<img src="https://img.shields.io/badge/figma-000000?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 <br/>
 
 ## 🧑🏻‍💻 Activity
