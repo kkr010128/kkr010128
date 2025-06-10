@@ -7,7 +7,7 @@
 ## 🧑🏻‍💻 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2025.06.8~ </p> | <p align="center"> Compass </p> | 학사정보를 이용한 AI 리포트 | <p align="center"> 프론트엔드<br/>백엔드<br/>인공지능 | <p align="center"> 팀 프로젝트<br/></p> |
+| <p align="center"> 2025.06.8~ </p> | <p align="center"> Compass </p> | 동국대 학사정보를 이용한 컴퓨터공학과 AI 리포트 | <p align="center"> 프론트엔드<br/>백엔드<br/>인공지능 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.12.19~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.07.28 ~ 2025.05.04 </p> | <p align="center"> 학점가방 </p> | 학생 편의 개선 목적의 동국대학교 학사/생활 통합 서비스 | <p align="center"> 팀 리더<br/>프론트엔드 | <p align="center"> 팀 프로젝트<br/>(서비스 중단)</p> |
 | <p align="center"> 2024.11.30~2024.12.1 </p> | <p align="center"> 함께, 경주 </p> | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | <p align="center"> 프론트엔드<br/>프레젠테이션 | <p align="center"> 팀 프로젝트<br/>(입상)</p> |
