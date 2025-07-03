@@ -73,15 +73,16 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 <br/>
 
+## 🧑🏻‍💻 Baekjoon
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkr010128" />
+</div>
+
 ## 🧑🏻‍💻 Activity
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkr010128&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkr010128&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkr010128&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🧑🏻‍💻 Baekjoon
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkr010128" />
-</div>
 
  
