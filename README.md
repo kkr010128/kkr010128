@@ -1,7 +1,6 @@
 <div>
 
 ## 🧑🏻‍💻 Welcome to KKR Github
-> 부족함을 채워 나가기 위해 365일 열심히 달리고 있는 컴퓨터공학과 4학년 학생입니다. 주로 Python, Flutter, NodeJS를 이용해 프로젝트를 진행했으며, 현재는 Spring 프레임워크를 공부하며 서비스 목적의 프로젝트를 준비하고 있습니다!
 <br/>
 
 ## 🧑🏻‍💻 Project
