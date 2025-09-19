@@ -35,7 +35,7 @@
 <br/>
 
 ## 📰 Article
-https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
+[동국대 WISE캠퍼스 2024 경주 지역문제해결형 해커톤 경진대회 개최](https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette)
 <br/><br/>
 
   
