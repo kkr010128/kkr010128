@@ -7,7 +7,7 @@
 
 확장 가능한 설계를 통해 신뢰할 수 있는 서비스를 만드는 것을 추구합니다.
 
-## 🏆 Activities
+## 🔥 Activities
 
 <table>
 <tr>
