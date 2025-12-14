@@ -27,8 +27,6 @@
 | [POLY DASH](https://github.com/kkr010128/Poly-DashBoard) | 2024.4 | DRM 시스템의 관리용 웹 대시보드 | Flask, Sqlite | 개인 프로젝트 |
 | POLYGON | 2020.04 ~ | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | Flask, Sqlite, Discord.py | 개인 프로젝트 |
 
-- 동국대학교 WISE 우수 논문상 : 2025.11.27 수상
-
 ## 🏆 Awards
 | 대회명 | 기관 | 작품 설명 | 수상 내용 | 수상일 |
 |----------|---------|-----|-----|-----|
