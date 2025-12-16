@@ -46,7 +46,7 @@
 
 ## 🛠 Tech Stack
 
-- **Language** : Python, Java, Go
+- **Language** : Python, Java, JavaScript, Lua
 - **DevOps** : Docker
 - **Front-End** : Flutter, React
 - **Back-End** : Spring-boot, Spring Security, JPA
