@@ -23,9 +23,9 @@
 | 프로젝트 명 | 기간 | 설명 | 주요 기술 | 형태 |
 | -------- | --- | --- | ------- | --- |
 | [학점 가방](https://github.com/Dongguk-unibag) | 2024.07 ~ 2025.5 | 학생 편의 개선 목적의 동국대학교 학사/생활 통합 서비스 | Node.js, Flutter, MySQL, Redis | 팀 프로젝트 |
-| 함께, 경주 | 2024.11 | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | React.js, MySQL | 팀 프로젝트 (해커톤) |
+| [함께, 경주](https://github.com/kkr010128/2024hackathon_200_OK) | 2024.11 | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | React.js, MySQL | 팀 프로젝트 (해커톤) |
 | [POLY DASH](https://github.com/kkr010128/Poly-DashBoard) | 2024.4 | DRM 시스템의 관리용 웹 대시보드 | Flask, Sqlite | 개인 프로젝트 |
-| POLYGON | 2020.04 ~ | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | Flask, Sqlite, Discord.py | 개인 프로젝트 |
+| [POLYGON] (https://github.com/kkr010128/Polygon-License-System) | 2020.04 ~ | 3D 오브젝트 디지털 상품에 대한 사용권 및 라이센스 관리 시스템 | Flask, Sqlite, Discord.py | 개인 프로젝트 |
 
 ## 🏆 Awards
 | 대회명 | 기관 | 작품 설명 | 수상 내용 | 수상일 |
