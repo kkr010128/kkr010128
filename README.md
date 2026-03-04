@@ -12,7 +12,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkr010128&layout=compact&theme=tokyonight&cache_seconds=1800" height="200" />
+    <img src="https://raw.githubusercontent.com/kkr010128/Programmers_Badge_Generator/main/result/result.svg")/>
   </td>
   <td>
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kkr010128" height="200" style="display:block;"/>
