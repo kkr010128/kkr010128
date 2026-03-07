@@ -11,11 +11,15 @@
 
 <table>
 <tr>
+  <th>BeakJoon</th>
+  <th>Programmers</th>
+</tr>
+<tr>
   <td>
-    <img src="https://raw.githubusercontent.com/kkr010128/Programmers_Badge_Generator/main/result/result.svg")/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kkr010128" width="300" style="display:block;"/>
   </td>
   <td>
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kkr010128" height="200" style="display:block;"/>
+    <img src="https://raw.githubusercontent.com/kkr010128/Programmers_Badge_Generator/main/result/result.svg" width="350"/>
   </td>
 </tr>
 </table>
